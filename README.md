@@ -1,6 +1,5 @@
-1° - Passo a passo para iniciar o RavenDb
-
-Ter o docker instalado;
-Abrir o CMD;
-Acessar o caminho onde está localizado o arquivo docker-compose.yml;
-Rodar docker-compose up.
+How to run RavenDb
+- Need to have docker installed;
+- Open CMD;
+- Go to the path where docker-compose.yml is located;
+- run docker-compose up.
